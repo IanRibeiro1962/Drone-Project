@@ -1,0 +1,5 @@
+Modelo 608 2RS
+
+Diâmetro Interno: 8mm
+Diâmetro Externo: 22mm
+Largura: 7mm

@@ -1,0 +1,2 @@
+Aumentar a base em 30mm
+Implementar furo na base no esp32(Implementar comunicação wifi não provou ser eficaz, ele não enviar o codigo correto)
