@@ -1,0 +1,4 @@
+400mm DJI Flamewheel Quadcopter by syahriansyah on Thingiverse: https://www.thingiverse.com/thing:2221073
+
+Summary:
+This is a 400mm size version based on the 370mm ver by jason51873 (http://www.thingiverse.com/thing:613877) Original design by tosjduenfs (http://www.thingiverse.com/thing:34552). I think it's more suitable for aerial photography as I intended for. The frame and all nuts and bolts weighs about 210gr.Req:8 x m3x16mm4 x m3x35mm12 x m3 nyloc nutThe electronic setup:FC: APM Flight Controller Set APM 2.8 6M/H GPS &amp; OSD &amp; Radio Telemetryhttp://tinyurl.com/ml9pshlMotor and esc: EMAX XA2212 980KV Motor With Simonk 30A ESChttp://tinyurl.com/k9zowgoGimbal: FPV 2 Axis Brushless Gimbal With Controller For DJI Phantom GoProhttp://tinyurl.com/n6hu6k9Props: 9450 Self-locking Propeller With Metal Hub For DJI Phantom 2CW/2CCWhttp://tinyurl.com/k8b2qybBattery: 3s 11.1v 5000mah should do it
